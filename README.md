@@ -18,3 +18,4 @@ https://username.github.io/truck-weather/
 | 1 | Added function to fetch the weather. | Fetch the weather | Main |
 | 2 | Show the weather on the page. | Show the weather on the page | Main |
 | 3 | Made change from the docs | Add a docs-based change | Main |
+| 4 | Added assignment questions and answers to README. | Add README | Main |
